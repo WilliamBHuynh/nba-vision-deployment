@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-v7(q&+p3+8ppzc!*v-a)3nclc2wo^z&%$rc*6@p$+gje8^jr01
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nba-vision.herokuapp.com']
 
 # Application definition
 
